@@ -5,10 +5,20 @@
 
 永远拥护开源精神！
 
-| 项目 | Stars | 下载量 |
-| --- | --- | --- |
-| [![Adjustable Media release](https://img.shields.io/github/v/release/Yi-luo-hua/obsidian-adjustable-media?style=flat&logo=obsidian&label=Adjustable%20Media&color=0F766E&labelColor=334155&logoColor=FFFFFF)](https://github.com/Yi-luo-hua/obsidian-adjustable-media) | [![GitHub Repo stars](https://img.shields.io/github/stars/Yi-luo-hua/obsidian-adjustable-media?style=social)](https://github.com/Yi-luo-hua/obsidian-adjustable-media/stargazers) | [![GitHub Downloads](https://img.shields.io/github/downloads/Yi-luo-hua/obsidian-adjustable-media/total?style=flat&color=C2410C&labelColor=334155)](https://github.com/Yi-luo-hua/obsidian-adjustable-media/releases) |
-| [![BilibiliCrawler release](https://img.shields.io/github/v/release/Yi-luo-hua/BilibiliCrawler?style=flat&logo=bilibili&label=BilibiliCrawler&color=0F766E&labelColor=334155&logoColor=FFFFFF)](https://github.com/Yi-luo-hua/BilibiliCrawler) | [![GitHub Repo stars](https://img.shields.io/github/stars/Yi-luo-hua/BilibiliCrawler?style=social)](https://github.com/Yi-luo-hua/BilibiliCrawler/stargazers) | [![GitHub Downloads](https://img.shields.io/github/downloads/Yi-luo-hua/BilibiliCrawler/total?style=flat&color=C2410C&labelColor=334155)](https://github.com/Yi-luo-hua/BilibiliCrawler/releases) |
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Yi-luo-hua/obsidian-adjustable-media"><img src="https://img.shields.io/github/v/release/Yi-luo-hua/obsidian-adjustable-media?style=flat&amp;logo=obsidian&amp;label=Adjustable%20Media&amp;color=7C3AED&amp;labelColor=334155&amp;logoColor=A78BFA" alt="Adjustable Media release" /></a></td>
+      <td><a href="https://github.com/Yi-luo-hua/obsidian-adjustable-media/stargazers"><img src="https://img.shields.io/github/stars/Yi-luo-hua/obsidian-adjustable-media?style=social" alt="Adjustable Media stars" /></a></td>
+      <td><a href="https://github.com/Yi-luo-hua/obsidian-adjustable-media/releases"><img src="https://img.shields.io/github/downloads/Yi-luo-hua/obsidian-adjustable-media/total?style=flat&amp;color=007EC6&amp;labelColor=334155" alt="Adjustable Media downloads" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yi-luo-hua/BilibiliCrawler"><img src="https://img.shields.io/github/v/release/Yi-luo-hua/BilibiliCrawler?style=flat&amp;logo=bilibili&amp;label=BilibiliCrawler&amp;color=FB7299&amp;labelColor=334155&amp;logoColor=FB7299" alt="BilibiliCrawler release" /></a></td>
+      <td><a href="https://github.com/Yi-luo-hua/BilibiliCrawler/stargazers"><img src="https://img.shields.io/github/stars/Yi-luo-hua/BilibiliCrawler?style=social" alt="BilibiliCrawler stars" /></a></td>
+      <td><a href="https://github.com/Yi-luo-hua/BilibiliCrawler/releases"><img src="https://img.shields.io/github/downloads/Yi-luo-hua/BilibiliCrawler/total?style=flat&amp;color=007EC6&amp;labelColor=334155" alt="BilibiliCrawler downloads" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## GitHub Activity
 
