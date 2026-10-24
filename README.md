@@ -3,7 +3,7 @@
   <img align="middle" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="26" />
 </div>
 
-新技术爱好者
+永远拥护开源精神！
 ## GitHub Activity
 
 ![My 3D contribution calendar](./profile-3d-contrib/profile-season-animate.svg)
