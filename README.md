@@ -7,8 +7,8 @@
 
 | 项目 | Stars | 下载量 |
 | --- | --- | --- |
-| [Adjustable Media](https://github.com/Yi-luo-hua/obsidian-adjustable-media) | [![GitHub Repo stars](https://img.shields.io/github/stars/Yi-luo-hua/obsidian-adjustable-media?style=social)](https://github.com/Yi-luo-hua/obsidian-adjustable-media/stargazers) | [![GitHub Downloads](https://img.shields.io/github/downloads/Yi-luo-hua/obsidian-adjustable-media/total)](https://github.com/Yi-luo-hua/obsidian-adjustable-media/releases) |
-| [BilibiliCrawler](https://github.com/Yi-luo-hua/BilibiliCrawler) | [![GitHub Repo stars](https://img.shields.io/github/stars/Yi-luo-hua/BilibiliCrawler?style=social)](https://github.com/Yi-luo-hua/BilibiliCrawler/stargazers) | [![GitHub Downloads](https://img.shields.io/github/downloads/Yi-luo-hua/BilibiliCrawler/total)](https://github.com/Yi-luo-hua/BilibiliCrawler/releases) |
+| [![Adjustable Media release](https://img.shields.io/github/v/release/Yi-luo-hua/obsidian-adjustable-media?style=flat&logo=obsidian&label=Adjustable%20Media&color=6D28D9)](https://github.com/Yi-luo-hua/obsidian-adjustable-media) | [![GitHub Repo stars](https://img.shields.io/github/stars/Yi-luo-hua/obsidian-adjustable-media?style=social)](https://github.com/Yi-luo-hua/obsidian-adjustable-media/stargazers) | [![GitHub Downloads](https://img.shields.io/github/downloads/Yi-luo-hua/obsidian-adjustable-media/total)](https://github.com/Yi-luo-hua/obsidian-adjustable-media/releases) |
+| [![BilibiliCrawler release](https://img.shields.io/github/v/release/Yi-luo-hua/BilibiliCrawler?style=flat&logo=bilibili&label=BilibiliCrawler&color=6D28D9)](https://github.com/Yi-luo-hua/BilibiliCrawler) | [![GitHub Repo stars](https://img.shields.io/github/stars/Yi-luo-hua/BilibiliCrawler?style=social)](https://github.com/Yi-luo-hua/BilibiliCrawler/stargazers) | [![GitHub Downloads](https://img.shields.io/github/downloads/Yi-luo-hua/BilibiliCrawler/total)](https://github.com/Yi-luo-hua/BilibiliCrawler/releases) |
 
 ## GitHub Activity
 
