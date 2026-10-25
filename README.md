@@ -3,7 +3,6 @@
   <img align="middle" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="26" />
 </div>
 
-永远拥护开源精神！
 
 <table>
   <tbody>
